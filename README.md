@@ -24,6 +24,10 @@
 
 PUG Plugin to zaawansowane rozwiązanie dla serwerów CS2, które automatyzuje organizację meczów w formacie ligowym/turniejowym. Wtyczka zarządza całym procesem - od wyboru drużyn, przez rundę nożową, aż po właściwy mecz w formacie MR12.
 
+## TODO
+
+ - Języki komend [PUG] (ENG)
+ - Pełny przebieg meczu do czatu discord
 
 ## ✨ Funkcje
 

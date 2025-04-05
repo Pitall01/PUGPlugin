@@ -23,6 +23,7 @@ Proces instalacji
 Pobierz najnowszą wersję wtyczki z repozytorium
 Rozpakuj zawartość archiwum do katalogu /game/csgo/addons/counterstrikesharp/plugins/
 Upewnij się, że struktura plików wygląda następująco:
+
 Copy/plugins/
   /PUGPlugin/
     PUGPlugin.cs

@@ -6,7 +6,7 @@
 ![CS2](https://img.shields.io/badge/gra-CS2-orange)
 ![CounterStrikeSharp](https://img.shields.io/badge/wymaga-CounterStrikeSharp-red)
 
-**Profesjonalny system zarządzania meczami PUG (Pick-Up Game) dla serwerów Counter-Strike 2**
+**System zarządzania meczami PUG (Pick-Up Game) dla serwerów Counter-Strike 2**
 </div>
 
 ## 📋 Spis treści
